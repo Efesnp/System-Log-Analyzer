@@ -1,0 +1,11 @@
+{
+    "total_lines": 7,
+    "errors": 3,
+    "warnings": 2,
+    "info": 2,
+    "error_percentage": 42.857142857142854,
+    "top_errors": {
+        "Database connection failed": 2,
+        "Timeout error": 1
+    }
+}
